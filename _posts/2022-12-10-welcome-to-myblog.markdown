@@ -10,4 +10,4 @@ tags: [Outreachy, Internship, Opensource, ODK-X]
 I just created this blog prior to my Outreachy Internship at `ODK-X`. I will be
 posting my experiences and little stuffs about me and my career journey.
 
-Once more again, you're welcome and make yourself at home!
+Once more, you're welcome and make yourself at home!
