@@ -77,7 +77,8 @@ A year back, A friend recommended Outreachy to me, that's how I got to know abou
 - [x]  It's remote
 - [x]  It has one of my values ( Freedom )
 
-And to add, The project I'm working on has my stack which is Java, UI/UX. 🤗
+And to add, The project I'm working on has my stack which is Java, UI/UX, Android Dev 🤗
+and I believe Outreachy is the platform that is going to sky rocket my career to the next level!
 
 
 
