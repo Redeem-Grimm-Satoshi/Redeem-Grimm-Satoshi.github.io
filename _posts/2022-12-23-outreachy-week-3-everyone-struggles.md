@@ -18,7 +18,7 @@ At first, I had problems with understanding the projet scope like what needs to 
 
 ![Communicate]({{site.baseurl}}/assets/img/com.png)
 ## How the Issue Was Solved✔️✔️
-**~~The problem is just too minor to ask for help~~** **Communincate, Communicate Communicate!**... I can't over emphasize on the importance of communication. I did communicate with my mentors and my fellow colleague (Also an Outreachy Intern that was chosen), The project scope was made clear and my vision became clearer. We came out with a combined timeline which even made things better and easier.
+**~~The problem is just too minor to ask for help~~** **Communincate, Communicate Communicate!**... I can't over emphasize on the importance of communication. I did communicate with my mentors and Godswill ( co-intern ), The project scope was made clear and my vision became clearer. We came out with a combined timeline which even made things better and easier, Special thanks to Godswill.
 
 When you have issues or doubts, Do you best to ask for clarity from your mentors or other sources available. Clearing doubts at the beginning of the internship will save you from a lot of stress. Don't forget to keep your mind open to learning.. Never Give Up!
 
@@ -27,6 +27,6 @@ When you have issues or doubts, Do you best to ask for clarity from your mentors
 ## New Vocabulary I Learnt😎
 ![ODK-X]({{site.baseurl}}/assets/img/odk.png)
 
-The picture says it all. The new vocabulary I learnt is the Orgs name itself... hehehe😂😂. Yeah seriously I had no idea what ODK-X stands for until I read their [Docs](https://docs.odk-x.org). Trust me, there's nothing like ~~" I know it all "~~ in tech. You'll keep learning new terms every now and then.
+This picture says it all. The new vocabulary I learnt is the Orgs name itself... hehehe😂😂. Yeah seriously I had no idea what ODK-X stands for until I read their [Docs](https://docs.odk-x.org). Trust me, there's nothing like ~~" I know it all "~~ in tech. You'll keep learning new terms every now and then.
 
 Thanks for reading... See you in the next post!
