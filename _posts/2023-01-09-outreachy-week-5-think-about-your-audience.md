@@ -25,6 +25,10 @@ A major goal of these ``ODK-X`` tools was to eliminate the need for any software
 ## What I'm Currently Working On
 My overall task for this internship period is effecting a ``Mobile UI Upliftment for the ODK-X`` apps. I'm working in collaboration with my fellow designer intern to get it done. I work on the development-end, Implementing designs and making sure the work properly, etc..
 
+**This project excites me so much because I'm working on improving the ui components and also implementing new features based on user feedback on an app that's been used all around the world to collect data in resource-contrained environments.**
+
 Current Task: **Implementing Dark and Light Theme Mode Across ODK-X Apps**
+
+Want to know more about ODK-X? Join the [ODK-X Forum](https://forum.odk-x.org/)
 
 Thanks for reading, See you in the next post!
