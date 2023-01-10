@@ -31,4 +31,4 @@ Current Task: **Implementing Dark and Light Theme Mode Across ODK-X Apps**
 
 Want to know more about ODK-X? Join the [ODK-X Forum](https://forum.odk-x.org/)
 
-Thanks for reading, See you in the next post!
+Thanks for reading, See you in the next post!😎
