@@ -1,3 +1,7 @@
 # Redeem Grimm's Outreachy Blog
 
-![sni](https://user-images.githubusercontent.com/45304978/206913789-8711c259-1a4e-41ed-869c-c29c259436dd.JPG)
+![blog-preview](https://user-images.githubusercontent.com/45304978/213837325-e7db3a36-35d4-467f-adf9-e731a014ed0d.JPG)
+
+# Visit it and give a like :)
+# Feel Free to send some PRs too ::)
+# New Weekly Post Update Coming!

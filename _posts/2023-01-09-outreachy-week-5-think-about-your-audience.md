@@ -27,7 +27,7 @@ My overall task for this internship period is effecting a ``Mobile UI Upliftment
 
 **This project excites me so much because I'm working on improving the ui components and also implementing new features based on user feedback on an app that's been used all around the world to collect data in resource-contrained environments.**
 
-At the moment i'm working on: **Building A Centralized Theming System That Will Be Reused Across All ODK-X Apps**
+At the moment i'm working on: **Building A Centralized Theming System That Will Be Reused Across All ODK-X Apps And Migrating All Components To Material 3**
 
 Want to know more about ODK-X? Join the [ODK-X Forum](https://forum.odk-x.org/)
 
