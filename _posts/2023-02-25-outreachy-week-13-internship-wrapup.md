@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Outreachy Week 13: Internship wrap-up"
-date: 2023-02-25 10:40:20 +0100
+date: 2023-03-1 10:40:20 +0100
 description: Outreachy Week 13. # Add post description (optional)
 img: finale.jpg  # Add image post (optional)
 tags: [Outreachy Week 13, Internship wrap-up, Internship, Opensource, ODK-X]
