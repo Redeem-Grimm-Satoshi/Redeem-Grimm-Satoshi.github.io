@@ -13,6 +13,6 @@ This Outreachy internship has helped me in many ways. I had to unlearn and relea
 
 `Before the internship started, I had no clue about the project objectives, talkless of even understanding the codebase (especially the portions that needed patching). As time went on, I asked my mentors questions and the project objective became more visible. I'm glad I was able to complete the tasks and issues that were of top priorities for this internship period, Learnt more about Android Development, Upgraded my git skills, Communication and Leadership skills, the list can go on and on.. but I'll stop here.`
 
-I'm so grateful to the ODK-X community and my wanderful mentors for taking out their precious time to help me throughout this internship period.
+I'm so grateful to the ODK-X community and my wonderful mentors for taking out their precious time to help me throughout this internship period.
 
 ## <<-- The End -->
