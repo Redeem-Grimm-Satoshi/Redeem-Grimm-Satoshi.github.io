@@ -7,11 +7,11 @@ img: intro-cover.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Outreachy, Intro]
 ---
-I'm called **Mbah Redeem Anjoh ( @Redeem Grimm )**. I taught myself how to code and design at a very early age meaning I haven't
+I'm called **Mbah Redeem Anjoh ( @Redeem Grimm )**. I taught myself how to code and design at a very early age (15yrs) meaning I haven't
 gone to any software engineering school. The world is digital and anyone can acquire digital skills without seating in a classroom.
 
-I dropped out of school ( University ) to pursue my tech career, goals and dreams full-time. Since then I've been contributing to
-opensource projects, personal projects and taking certification exams, etc..  to improve on myself. It hasn't been an easy journey as I have had a lot of persecutions. I'll write a blog post about this soon.
+I dropped out of school due to the ongoing Anglophone-Crisis in my country Cameroon. I decided to pursue my tech career, goals and dreams full-time, since then I've been contributing to
+opensource projects, personal projects and taking certification exams to improve on myself. It hasn't been an easy journey as I have had a lot of persecutions. I'll write a blog post about this soon.
 
 I did apply to Outreachy this year ( my number 4 attempts ) as I've been rejected 3 times in a row. I didn't give up, I became more
 tenacious than ever before, And this years Outreachy Dec 2022 to March 2023 internship round I got selected... Hurrayyyyy!!
